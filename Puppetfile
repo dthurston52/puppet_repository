@@ -10,6 +10,8 @@ mod "zack/r10k"
 mod "gentoo/portage"
 mod "jfryman/nginx"
 mod "puppetlabs/stdlib"
+mod "puppetlabs/apt"
+mod "puppetlabs/concat"
 
 mod "users",
 	:git => "git://github.com/cvquesty/users.git",
