@@ -8,6 +8,7 @@ mod "puppetlabs/vcsrepo"
 mod "puppetlabs/inifile"
 mod "zack/r10k"
 mod "gentoo/portage"
+mod "jfryman/nginx"
 
 mod "users",
 	:git => "git://github.com/cvquesty/users.git",
