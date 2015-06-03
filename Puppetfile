@@ -20,3 +20,11 @@ mod "users",
 mod "fcron",
 	:git => "git://github.com/cvquesty/fcron.git",
 	:ref => 'development'
+
+mod "roles",
+	:git => "git://github.com/cvquesty/roles.git",
+	:ref => 'development'
+
+mod "profiles",
+	:git => "git://github.com/cvquesty/profiles.git",
+	:ref => 'development'
