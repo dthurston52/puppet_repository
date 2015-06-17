@@ -17,3 +17,6 @@ mod "users",
 	:git => "git://github.com/dthurston52/users.git",
 	:ref => 'testing'
 
+mod "ssh",
+	:git => "git://github.com/dthurston52/ssh.git",
+	:ref => 'testing'
