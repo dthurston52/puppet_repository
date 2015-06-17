@@ -14,6 +14,6 @@ mod "puppetlabs/apt"
 mod "puppetlabs/concat"
 
 mod "users",
-	:git => "git://github.com/dthurston/users.git",
+	:git => "git://github.com/dthurston52/users.git",
 	:ref => 'testing'
 
