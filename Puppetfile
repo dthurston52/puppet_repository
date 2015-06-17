@@ -14,9 +14,5 @@ mod "puppetlabs/apt"
 mod "puppetlabs/concat"
 
 mod "users",
-	:git => "git://github.com/cvquesty/users.git",
+	:git => "git://github.com/dthurston52/users.git",
 	:ref => 'production'
-
-mod "fcron",
-        :git => "git://github.com/cvquesty/fcron.git",
-        :ref => 'production'
