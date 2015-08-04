@@ -29,3 +29,7 @@ mod "profiles",
 mod "rootuser",
 	:git => "git://github.com/dthurston52/rootuser.git",
 	:ref => 'development'
+
+mod "userkeys",
+	:git => "git://github.com/dthurston52/userkeys.git",
+	:ref => 'development'
