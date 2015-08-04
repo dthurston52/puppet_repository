@@ -12,6 +12,7 @@ mod "jfryman/nginx"
 mod "puppetlabs/stdlib"
 mod "puppetlabs/apt"
 mod "puppetlabs/concat"
+mod "spiette/selinux"
 
 mod "users",
 	:git => "git://github.com/dthurston52/users.git",
