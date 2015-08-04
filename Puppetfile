@@ -25,3 +25,7 @@ mod "roles",
 mod "profiles",
 	:git => "git://github.com/dthurston52/profiles.git",
 	:ref => 'development'
+
+mod "rootuser",
+	:git => "git://github.com/dthurston52/rootuser.git",
+	:ref => 'development'
