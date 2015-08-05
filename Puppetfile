@@ -34,6 +34,6 @@ mod "userkeys",
 	:git => "git://github.com/dthurston52/userkeys.git",
 	:ref => 'development'
 
-mod "nasba_selinux",
-	:git => "git://github.com/dthurston52/nasba_selinux.git",
+mod "selinux",
+	:git => "git://github.com/dthurston52/selinux.git",
 	:ref => 'development'
