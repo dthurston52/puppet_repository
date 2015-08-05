@@ -12,7 +12,6 @@ mod "jfryman/nginx"
 mod "puppetlabs/stdlib"
 mod "puppetlabs/apt"
 mod "puppetlabs/concat"
-mod "spiette/selinux"
 
 mod "users",
 	:git => "git://github.com/dthurston52/users.git",
@@ -33,4 +32,8 @@ mod "rootuser",
 
 mod "userkeys",
 	:git => "git://github.com/dthurston52/userkeys.git",
+	:ref => 'development'
+
+mod "nasba_selinux",
+	:git => "git://github.com/dthurston52/nasba_selinux.git",
 	:ref => 'development'
