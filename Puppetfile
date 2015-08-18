@@ -39,3 +39,6 @@ mod "selinux",
         :git => "git://github.com/dthurston52/selinux.git",
         :ref => 'development'
 
+mod "ldap",
+        :git => "git://github.com/dthurston52/ldap.git",
+        :ref => 'development'
