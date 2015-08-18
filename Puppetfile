@@ -12,7 +12,7 @@ mod "jfryman/nginx"
 mod "puppetlabs/stdlib"
 mod "puppetlabs/apt"
 mod "puppetlabs/concat"
-mod "arildjensen/cis"
+#mod "arildjensen/cis"
 
 mod "users",
 	:git => "git://github.com/dthurston52/users.git",
