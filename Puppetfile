@@ -39,6 +39,6 @@ mod "selinux",
 	:git => "git://github.com/dthurston52/selinux.git",
 	:ref => 'development'
 
-mod "ldap",
+mod "authconfig",
         :git => "git://github.com/dthurston52/authconfig.git",
         :ref => 'development'
