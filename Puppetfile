@@ -12,6 +12,7 @@ mod "jfryman/nginx"
 mod "puppetlabs/stdlib"
 mod "puppetlabs/apt"
 mod "puppetlabs/concat"
+mod "duritong/sysctl"
 mod "arildjensen/cis"
 
 mod "users",
